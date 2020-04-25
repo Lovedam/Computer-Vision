@@ -18,7 +18,7 @@ Imports all necessary libraries used also well as setting seeds and specifying d
 ### 3. Create Folds
 Run this cell to create a new dataframe for K fold crossvalidation. (Necessary)
 
-### 4 Set Environment Variables
+### 4. Set Environment Variables
 Create cuda variable for moving model and data to GPU and setting batch sizes for train and test
 
 ### 5. Load Train Data From DataFrame
